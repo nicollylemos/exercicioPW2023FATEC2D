@@ -10,3 +10,5 @@
   <li>PHP</li>
 </ul>
 <h2>&#x1F5BC Imagens</h2>
+<img src="imgs/tela01-fomr.png" alt="Tela de um formulário"/>
+<img src="imgs/tela02-fomr.png" alt="Tela de um site"/>
