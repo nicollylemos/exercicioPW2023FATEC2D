@@ -1,4 +1,4 @@
-# exercicioPW2023FATEC2D
+# Exercicios Programação Web II 2023
 
 <h2>&#x1F50D Sobre</h2><br>
 <p> O repositório foi criado com o objetivo de guardar as atividades realizadas durante o ano letivo de 2023, na matéria técnica de <strong>Programção Web II</strong>, do curso técnico de Desenvolvimento de Sistemas. </p>
@@ -9,4 +9,4 @@
   <li>CSS</li>
   <li>PHP</li>
 </ul>
-<h2>Imagens</h2>
+<h2>&#x1F5BC Imagens</h2>
