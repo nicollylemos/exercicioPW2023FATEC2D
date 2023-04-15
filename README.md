@@ -10,4 +10,4 @@
   <li>PHP</li>
 </ul>
 <h2>&#x1F5BC Imagens</h2>
-![form-tela01](https://user-images.githubusercontent.com/102179005/232187017-2cfe003e-306d-403d-9b42-ed79483a0516.png)
+https://github.com/nicollylemos/exercicioPW2023FATEC2D/issues/1#issue-1669170450
