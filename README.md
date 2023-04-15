@@ -10,4 +10,5 @@
   <li>PHP</li>
 </ul>
 <h2>&#x1F5BC Imagens</h2>
-<img src="![form-tela01](https://user-images.githubusercontent.com/102179005/232187156-889e5b3f-7022-43d8-a35f-f3eca4bdd6d5.png)"/>
+
+<img src="https://user-images.githubusercontent.com/102179005/232187156-889e5b3f-7022-43d8-a35f-f3eca4bdd6d5.png"/>
