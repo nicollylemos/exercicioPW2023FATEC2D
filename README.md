@@ -10,5 +10,5 @@
   <li>CSS</li>
   <li>PHP</li>
 </ul>
-<h2>&#x1F5BC Imagens</h2><br>
+<h2>&#x1F5BC Imagens dos projetos</h2><br>
 <img src="https://user-images.githubusercontent.com/102179005/232187156-889e5b3f-7022-43d8-a35f-f3eca4bdd6d5.png"/>
