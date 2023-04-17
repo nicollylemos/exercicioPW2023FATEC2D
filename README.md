@@ -1,4 +1,4 @@
-# Exercicios Programação Web II 2023
+# Exercícios Programação Web II 2023
 
 <h2> &#x1F50D Sobre </h2>
 <p> O repositório foi criado com o objetivo de guardar as atividades realizadas durante o ano letivo de 2023, na matéria técnica de <strong>Programção Web II</strong>, do curso técnico de Desenvolvimento de Sistemas. </p>
