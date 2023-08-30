@@ -1,0 +1,65 @@
+.box{
+    padding-top: 10px;
+    padding-left: 60px;
+    background: rgb(255, 255, 255);
+    width: 900px;
+    height: 96vh;
+    position: absolute;
+    left:600px;
+    top:20px;
+    
+}
+
+body{
+    background: rgb(235, 235, 235);
+    margin: auto;
+}
+h3{
+    margin-top: 50px;
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+#ex-h3::before{
+    
+    content:'';
+    width: 7rem;
+    height: 0.3rem;
+    background-color: rgb(201, 68, 68);
+    position: absolute;
+    border-radius: 10px;
+    top:100px;
+    left:98px;
+}
+
+#modelo{
+    width: 500px;
+}
+
+#marca{
+    width: 500px;
+}
+
+#descricao{
+    width: 500px;
+}
+
+#ano{
+    width:100px;
+}
+
+#foto{
+    width: 300px;
+}
+
+#data{
+    background-color: #efeded;
+    padding: 13px;
+    font-family: "Roboto Mono",monospace;
+    color: #060606;
+    font-size: 13.5px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    width: 140px;
+}
